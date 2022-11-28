@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/personal_portfolio/static/css/main.55b53e61.css",
+    "main.js": "/personal_portfolio/static/js/main.f7ed1962.js",
+    "static/js/787.a2cb61a6.chunk.js": "/personal_portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/my_image_edit.png": "/personal_portfolio/static/media/my_image_edit.406b2c5840c8693ce2fc.png",
+    "static/media/sinimage.jpg": "/personal_portfolio/static/media/sinimage.3f2cfcad1db8353ecf3b.jpg",
+    "static/media/cv.pdf": "/personal_portfolio/static/media/cv.6d3b9e08a5fb5dded6aa.pdf",
+    "static/media/my_photo.png": "/personal_portfolio/static/media/my_photo.b2cb19f0e2d42ef8dfc3.png",
+    "static/media/movie-search-app.jpg": "/personal_portfolio/static/media/movie-search-app.16f8837a6e1773d2f1cc.jpg",
+    "static/media/vikash.jpeg": "/personal_portfolio/static/media/vikash.ec792f1d21ea9bdf8428.jpeg",
+    "static/media/prakhar_profile.jpeg": "/personal_portfolio/static/media/prakhar_profile.05c63f6086cbbdda8e1c.jpeg",
+    "static/media/goal.png": "/personal_portfolio/static/media/goal.0c95474fde505be48eb5.png",
+    "static/media/currently.png": "/personal_portfolio/static/media/currently.e093c02b8c584b4c4a4e.png",
+    "static/media/previouly.png": "/personal_portfolio/static/media/previouly.a6263af55d1dd0ae5b2f.png",
+    "static/media/portoliocover.jpg": "/personal_portfolio/static/media/portoliocover.f8630d35afa5aa9851d3.jpg",
+    "index.html": "/personal_portfolio/index.html",
+    "main.55b53e61.css.map": "/personal_portfolio/static/css/main.55b53e61.css.map",
+    "main.f7ed1962.js.map": "/personal_portfolio/static/js/main.f7ed1962.js.map",
+    "787.a2cb61a6.chunk.js.map": "/personal_portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55b53e61.css",
+    "static/js/main.f7ed1962.js"
+  ]
+}
