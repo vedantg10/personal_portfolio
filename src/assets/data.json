@@ -3,15 +3,15 @@
     "id": 1,
     "image": "../../public/images/portfolio1.jpg",
     "title": "Movie Search App",
-    "github": "https://github.com",
+    "github": "https://github.com/vedantg10/react-movie-app",
     "demo": "https://vedantg10.github.io/react-movie-app/"
   },
   {
     "id": 3,
     "image": "../../assets/portfolio3.jpg",
     "title": "Personal Portfolio",
-    "github": "https://github.com",
-    "demo": "#home"
+    "github": "https://github.com/vedantg10/personal_portfolio",
+    "demo": "https://vedantg10.github.io/personal_portfolio/"
   },
   {
     "id": 2,
