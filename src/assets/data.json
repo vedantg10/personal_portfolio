@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "../../public/images/portfolio1.jpg",
+    "title": "Movie Search App",
+    "github": "https://github.com",
+    "demo": "https://vedantg10.github.io/react-movie-app/"
+  },
+  {
+    "id": 3,
+    "image": "../../assets/portfolio3.jpg",
+    "title": "Personal Portfolio",
+    "github": "https://github.com",
+    "demo": "#home"
+  },
+  {
+    "id": 2,
+    "image": "../../assets/portfolio2.jpg",
+    "title": "Canada serive insurance number generation",
+    "github": "https://github.com/jaykanabar31/seng696_fall_2022_group4_Online_SIN_Generator",
+    "demo": ""
+  }
+]
