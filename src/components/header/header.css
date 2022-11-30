@@ -80,10 +80,14 @@ header {
 
 @media screen and (max-width: 600px) {
   header {
-    height: 100vh;
+    height: 124vh;
   }
   .header_socials,
   .scroll_down {
     display: none;
+  }
+
+  .me {
+    margin-left: -378px;
   }
 }
