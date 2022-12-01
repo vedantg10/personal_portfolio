@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/personal_portfolio/static/css/main.508b26b5.css",
-    "main.js": "/personal_portfolio/static/js/main.66ba13e5.js",
+    "main.js": "/personal_portfolio/static/js/main.2b6b8cff.js",
     "static/js/787.a2cb61a6.chunk.js": "/personal_portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/my_image_edit.png": "/personal_portfolio/static/media/my_image_edit.406b2c5840c8693ce2fc.png",
     "static/media/sinimage.jpg": "/personal_portfolio/static/media/sinimage.3f2cfcad1db8353ecf3b.jpg",
-    "static/media/cv.pdf": "/personal_portfolio/static/media/cv.e1862020b85ee5f49916.pdf",
+    "static/media/cv.pdf": "/personal_portfolio/static/media/cv.e74d5a80cdcb3cc2c98b.pdf",
     "static/media/my_photo.png": "/personal_portfolio/static/media/my_photo.b2cb19f0e2d42ef8dfc3.png",
     "static/media/movie-search-app.jpg": "/personal_portfolio/static/media/movie-search-app.16f8837a6e1773d2f1cc.jpg",
     "static/media/vikash.jpeg": "/personal_portfolio/static/media/vikash.ec792f1d21ea9bdf8428.jpeg",
@@ -16,11 +16,11 @@
     "static/media/portoliocover.jpg": "/personal_portfolio/static/media/portoliocover.f8630d35afa5aa9851d3.jpg",
     "index.html": "/personal_portfolio/index.html",
     "main.508b26b5.css.map": "/personal_portfolio/static/css/main.508b26b5.css.map",
-    "main.66ba13e5.js.map": "/personal_portfolio/static/js/main.66ba13e5.js.map",
+    "main.2b6b8cff.js.map": "/personal_portfolio/static/js/main.2b6b8cff.js.map",
     "787.a2cb61a6.chunk.js.map": "/personal_portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.508b26b5.css",
-    "static/js/main.66ba13e5.js"
+    "static/js/main.2b6b8cff.js"
   ]
 }
